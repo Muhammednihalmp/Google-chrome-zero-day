@@ -99,31 +99,4 @@ Contributions welcome (labs, defensive rules, detection content, documentation).
 
 ---
 
-## Repository layout (suggested)
-```
-/slides/         # lecture slides and pptx
-/labs/           # lab guides and scripts (non-exploit)
-/detection/      # YARA, Sigma, EDR rules, SIEM dashboards
-/references/     # vendor advisories, CVEs, reports
-/legal/          # code of conduct, responsible disclosure templates
-```
-
----
-
-## Quick start (examples)
-```bash
-# Save this repo folder to your workstation, run labs in isolated VMs.
-# Take snapshots before each lab.
-
-# Example: open a crash dump in WinDbg (Windows)
-windbg -z C:\dumps\chrome_renderer.dmp
-```
-
----
-
-## License
-MIT License — educational use only. See `LICENSE` file for details.
-
----
-
 *Prepared by: Nihal MP — Offenso Hackers Academy*
