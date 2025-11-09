@@ -1,7 +1,7 @@
 # Google Chrome Zero-Day — Web Security Track
 
 **Learn, practice, and defend — ethically.**  
-This repository contains course materials and labs for the *Web Security* module (Offenso Hackers Academy). Use only in controlled, legal environments (VMs, lab networks) and follow the Responsible Disclosure & Code of Conduct below.
+This repository contains course materials and labs for the *Web Security* module . Use only in controlled, legal environments (VMs, lab networks) and follow the Responsible Disclosure & Code of Conduct below.
 
 ---
 
