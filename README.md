@@ -99,4 +99,4 @@ Contributions welcome (labs, defensive rules, detection content, documentation).
 
 ---
 
-*Prepared by: Nihal MP — Offenso Hackers Academy*
+*Prepared by: Nihal MP 
